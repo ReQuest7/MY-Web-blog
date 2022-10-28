@@ -1,0 +1,37 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-size: 3vw;
+    
+}
+table {
+    border: 1px solid #000;
+    margin: auto;
+}
+
+
+table td {
+    
+    width: 80px;
+    height: 80px;
+}
+
+td button {
+    border: none;
+    width: 100%;
+    height: 100%;
+    background-color: greenyellow;
+}
+
+h1 {
+    color: #000;
+}
+
+#gameBoard {
+    padding-top: 30px;
+}
+
+#flagButton {
+    padding-top: 30px;
+}

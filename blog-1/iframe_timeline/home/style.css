@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css?family=DM+Sans:400,500,700|Source+Sans+Pro:300,400,600,700&display=swap");
+
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+body {
+    background-color: 373575;
+    font-family: "DM Sans", sans-serif;
+    color: white;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+}
+
+p {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+li {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+h1, h2 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+
+::-webkit-scrollbar {
+    width: 10px;
+    border-radius: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.01);
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.11);
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgba(255, 255, 255, 0.1);
+  }
+  .gist {
+    color: black;
+  }
+
+
+
+
+

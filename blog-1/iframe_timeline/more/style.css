@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css?family=DM+Sans:400,500,700|Source+Sans+Pro:300,400,600,700&display=swap");
+
+*{
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-color: 373575;
+    font-family: "Source Sans Pro", sans-serif;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+}
+
+
+
+
+

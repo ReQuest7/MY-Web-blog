@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+
+table {
+    border: 1px solid #fff;
+    margin: auto;
+
+}
+
+table td {
+    height: 100px;
+    width: 100px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: aqua;
+    background-size: 300px 300px;
+    
+}
+
+#fullPicture {
+    width: 500px;
+    height: 500px;
+    text-align: center;
+}
+
+
+
+::-webkit-scrollbar {
+    width: 10px;
+    border-radius: 10px;
+}
+  
+  /* Track */
+::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.01);
+}
+  
+  /* Handle */
+::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.11);
+    border-radius: 10px;
+}
+  
+  /* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(255, 255, 255, 0.1);
+}
